@@ -1,0 +1,2645 @@
+{
+  "Chp 3": {
+    "1": {
+      "question": "Which industry uses blockchain for secure cross-border payments?",
+      "options": [
+        "(a) Healthcare",
+        "(b) Finance",
+        "(c) Supply Chain",
+        "(d) Gaming"
+      ],
+      "answer": "b"
+    },
+    "2": {
+      "question": "Blockchain improves supply chains by ........",
+      "options": [
+        "(a) Reducing transparency",
+        "(b) Tracking products from origin to consumer",
+        "(c) Hiding product details",
+        "(d) Increasing fraud risk"
+      ],
+      "answer": "b"
+    },
+    "3": {
+      "question": "In healthcare, blockchain helps by ........",
+      "options": [
+        "(a) Making all patient data public",
+        "(b) Securely storing and sharing medical records",
+        "(c) Slowing down data access",
+        "(d) Reducing data collection"
+      ],
+      "answer": "b"
+    },
+    "4": {
+      "question": "Blockchain offers gamers the ability to ........",
+      "options": [
+        "(a) Own in-game assets as NFTs",
+        "(b) Cheat on games",
+        "(c) Avoid transparency",
+        "(d) Use centralized servers"
+      ],
+      "answer": "a"
+    },
+    "5": {
+      "question": "Cross-border payments on blockchain are ........",
+      "options": [
+        "(a) Slow and costly",
+        "(b) Faster and cheaper due to lack of intermediaries",
+        "(c) Only for cryptocurrency",
+        "(d) Not traceable"
+      ],
+      "answer": "b"
+    },
+    "6": {
+      "question": "Which of the following Industry can use blockchain Technology?",
+      "options": [
+        "(a) Logistics and supply chain",
+        "(b) Medical records",
+        "(c) Financial Market",
+        "(d) All of these"
+      ],
+      "answer": "d"
+    },
+    "7": {
+      "question": "In supply chain applications, blockchain primarily helps by",
+      "options": [
+        "a) Reducing transparency",
+        "b) Tracking products and ensuring authenticity",
+        "c) Replacing sensors",
+        "d) Removing cloud computing"
+      ],
+      "answer": "b"
+    },
+    "8": {
+      "question": "A hospital wants to securely share patient records across multiple clinics while maintaining privacy. Which type of blockchain is most suitable?",
+      "options": [
+        "(a) Public Blockchain",
+        "(b) Private Blockchain",
+        "(c) Consortium Blockchain",
+        "(d) Hybrid Blockchain"
+      ],
+      "answer": "c"
+    },
+    "9": {
+      "question": "A gaming company wants to give players ownership of in-game assets through blockchain tokens that are tradable across platforms. Which application of blockchain does this represent?",
+      "options": [
+        "(a) Finance",
+        "(b) Healthcare",
+        "(c) Gaming (NFTs / Digital Assets)",
+        "(d) Supply Chain"
+      ],
+      "answer": "c"
+    },
+    "10": {
+      "question": "A smart contract is used to automatically release payment when goods are delivered in a supply chain. Which blockchain feature makes this possible?",
+      "options": [
+        "(a) Decentralization",
+        "(b) Transparency",
+        "(c) Immutability and automation",
+        "(d) Cryptocurrency mining"
+      ],
+      "answer": "c"
+    },
+    "11": {
+      "question": "Smart contracts",
+      "options": [
+        "(a) Require a lawyer to enforce",
+        "(b) Are self-executing contracts coded on blockchain",
+        "(c) Can be changed anytime by the creator",
+        "(d) Need intermediaries"
+      ],
+      "answer": "b"
+    },
+    "12": {
+      "question": "Which is a key feature of smart contracts?",
+      "options": [
+        "(a) Autonomy and immutability",
+        "(b) Manual execution",
+        "(c) Require human intervention",
+        "(d) Can be erased easily"
+      ],
+      "answer": "a"
+    },
+    "13": {
+      "question": "Bitcoin is ........",
+      "options": [
+        "(a) A centralized digital currency",
+        "(b) A cryptocurrency operating on blockchain",
+        "(c) A fiat currency",
+        "(d) Not related to blockchain"
+      ],
+      "answer": "b"
+    },
+    "14": {
+      "question": "Ethereum is known for ........",
+      "options": [
+        "(a) Only cryptocurrency transactions",
+        "(b) Enabling smart contract execution",
+        "(c) Being a private blockchain",
+        "(d) Centralized control"
+      ],
+      "answer": "b"
+    },
+    "15": {
+      "question": "Bitcoin and Ethereum are examples of:",
+      "options": [
+        "(a) Private Blockchains",
+        "(b) Public Blockchains",
+        "(c) Consortium Blockchains",
+        "(d) Hybrid Blockchains"
+      ],
+      "answer": "b"
+    },
+    "16": {
+      "question": "Bitcoin and Ethereum are examples of ?",
+      "options": [
+        "(a) Currency",
+        "(b) Cryptocurrency",
+        "(c) Cryptography",
+        "(d) Algorithm"
+      ],
+      "answer": "b"
+    },
+    "17": {
+      "question": "Which of the following is a popular cryptocurrency?",
+      "options": [
+        "(a) Ethereum",
+        "(b) MySQL",
+        "(c) Python",
+        "(d) Hyperledger"
+      ],
+      "answer": "a"
+    },
+    "18": {
+      "question": "Which blockchain is known for pioneering smart contracts?",
+      "options": [
+        "(a) Bitcoin",
+        "(b) Ethereum",
+        "(c) Litecoin",
+        "(d) Dogecoin"
+      ],
+      "answer": "b"
+    },
+    "19": {
+      "question": "A smart contract is",
+      "options": [
+        "(a) A physical contract stored digitally",
+        "(b) A self-executing program with the terms of the agreement coded",
+        "(c) A blockchain token",
+        "(d) A database management system"
+      ],
+      "answer": "b"
+    },
+    "20": {
+      "question": "“Smart contracts” are based on ........",
+      "options": [
+        "(a) “if/when...then” logic",
+        "(b) Manual approval process",
+        "(c) Paper documentation",
+        "(d) Third-party arbitration"
+      ],
+      "answer": "a"
+    },
+    "21": {
+      "question": "The biggest scalability challenge is ........",
+      "options": [
+        "(a) Slow transactions as network grows",
+        "(b) Too much transparency",
+        "(c) Lack of security",
+        "(d) Too many users"
+      ],
+      "answer": "a"
+    },
+    "22": {
+      "question": "Proof of Work consensus consumes ........",
+      "options": [
+        "(a) Minimal energy",
+        "(b) High energy due to mining computations",
+        "(c) No electricity",
+        "(d) Renewable resources only"
+      ],
+      "answer": "b"
+    },
+    "23": {
+      "question": "Regulatory uncertainty ........",
+      "options": [
+        "(a) Encourages rapid adoption",
+        "(b) Hinders blockchain adoption globally",
+        "(c) Is resolved everywhere",
+        "(d) Does not affect blockchain"
+      ],
+      "answer": "b"
+    },
+    "24": {
+      "question": "What is a '51% attack'?",
+      "options": [
+        "(a) When a single user controls over half of all mining power",
+        "(b) More than half network uses blockchain",
+        "(c) Over half transactions are instant",
+        "(d) None of the above"
+      ],
+      "answer": "a"
+    },
+    "25": {
+      "question": "Immutability challenges include ........",
+      "options": [
+        "(a) Inability to correct errors once stored",
+        "(b) Data easily altered",
+        "(c) Data deleted automatically",
+        "(d) Frequent rollbacks"
+      ],
+      "answer": "a"
+    },
+    "26": {
+      "question": "A privacy issue in public blockchains is ........",
+      "options": [
+        "(a) Complete anonymity",
+        "(b) Exposure of transaction details publicly",
+        "(c) Data encryption",
+        "(d) Transparency for trusted users only"
+      ],
+      "answer": "b"
+    },
+    "27": {
+      "question": "Which blockchain challenge is associated with high energy consumption due to mining?",
+      "options": [
+        "(a) Scalability",
+        "(b) Security",
+        "(c) Efficiency",
+        "(d) Decentralization"
+      ],
+      "answer": "c"
+    },
+    "28": {
+      "question": "What is tokenization in blockchain?",
+      "options": [
+        "(a) Converting assets into digital tokens for easier transfer",
+        "(b) Hiding asset identity",
+        "(c) Destroying digital records",
+        "(d) Encrypting personal data only"
+      ],
+      "answer": "a"
+    },
+    "29": {
+      "question": "Which blockchain consensus reduces energy consumption compared to Proof of Work?",
+      "options": [
+        "(a) Proof of Stake",
+        "(b) Proof of Authority",
+        "(c) Proof of Identity",
+        "(d) Proof of Power"
+      ],
+      "answer": "a"
+    },
+    "30": {
+      "question": "Gas fees in Ethereum are used to ........",
+      "options": [
+        "(a) Pay transaction processing on blockchain",
+        "(b) Control user access",
+        "(c) Reward users with tokens",
+        "(d) None of the above"
+      ],
+      "answer": "a"
+    },
+    "31": {
+      "question": "Which layer of blockchain architecture is responsible for validating and recording transactions?",
+      "options": [
+        "(a) Data Layer",
+        "(b) Network Layer",
+        "(c) Consensus Layer",
+        "(d) Application Layer"
+      ],
+      "answer": "c"
+    },
+    "32": {
+      "question": "What is a dApp ?",
+      "options": [
+        "(a) Type of Blockchain",
+        "(b) A type of Cryptocurrency",
+        "(c) A decentralized Application",
+        "(d) Smart Contract"
+      ],
+      "answer": "c"
+    },
+    "33": {
+      "question": "How many layers are there in Blockchain architecture?",
+      "options": [
+        "(a) 3",
+        "(b) 4",
+        "(c) 5",
+        "(d) 7"
+      ],
+      "answer": "c"
+    },
+    "34": {
+      "question": "Blockchain 2.0 is born in the year?",
+      "options": [
+        "(a) 2009",
+        "(b) 2014",
+        "(c) 2017",
+        "(d) 2018"
+      ],
+      "answer": "b"
+    },
+    "35": {
+      "question": "is used in peer to peer communications between the nodes that allow them to discover each other and get synchronized with another node.?",
+      "options": [
+        "(a) Presentation Layer",
+        "(b) Application Layer",
+        "(c) Propagation Layer",
+        "(d) Semantic Layer"
+      ],
+      "answer": "c"
+    }
+  },
+  "Chp 4 Part I": {
+    "1": {
+      "question": "Immersive technology merges:",
+      "options": [
+        "(a) Hardware and software",
+        "(b) Physical and digital environments",
+        "(c) Data and storage",
+        "(d) Networks"
+      ],
+      "answer": "b"
+    },
+    "2": {
+      "question": "Main purpose of immersive technology is to:",
+      "options": [
+        "(a) Replace physical systems",
+        "(b) Enhance user experience through engagement",
+        "(c) Reduce computer speed",
+        "(d) Store more data"
+      ],
+      "answer": "b"
+    },
+    "3": {
+      "question": "Which technology completely replaces the real world with a simulated one?",
+      "options": [
+        "(a) AR",
+        "(b) VR",
+        "(c) MR",
+        "(d) XR"
+      ],
+      "answer": "b"
+    },
+    "4": {
+      "question": "The device Essential for VR experience:",
+      "options": [
+        "(a) Monitor",
+        "(b) VR headset",
+        "(c) Smartphone",
+        "(d) Keyboard"
+      ],
+      "answer": "b"
+    },
+    "5": {
+      "question": "Augmented Reality works by:",
+      "options": [
+        "(a) Simulating only virtual worlds",
+        "(b) Overlaying digital objects on real world",
+        "(c) Creating Sound-based simulations",
+        "(d) Replacing human senses"
+      ],
+      "answer": "b"
+    },
+    "6": {
+      "question": "Mixed Reality (MR) is a combination of:",
+      "options": [
+        "(a) AR and AI",
+        "(b) VR and IoT",
+        "(c) AR and VR",
+        "(d) None of these"
+      ],
+      "answer": "c"
+    },
+    "7": {
+      "question": "The term XR (Extended Reality) refers to:",
+      "options": [
+        "(a) Only VR applications",
+        "(b) Combination of VR, AR, MR",
+        "(c) Only AR applications",
+        "(d) Gaming technology"
+      ],
+      "answer": "b"
+    },
+    "8": {
+      "question": "Haptic technology mainly stimulates which human sense:",
+      "options": [
+        "(a) Hearing",
+        "(b) Touch",
+        "(c) Vision",
+        "(d) Smell"
+      ],
+      "answer": "b"
+    },
+    "9": {
+      "question": "A common example of AR in daily life is:",
+      "options": [
+        "(a) Google Docs",
+        "(b) Pokémon GO",
+        "(c) YouTube",
+        "(d) PowerPoint"
+      ],
+      "answer": "b"
+    },
+    "10": {
+      "question": "Which Immersive technology allows users to interact with both real & digital objects in real time:",
+      "options": [
+        "(a) AR",
+        "(b) MR",
+        "(c) VR",
+        "(d) XR"
+      ],
+      "answer": "b"
+    },
+    "11": {
+      "question": "The sense of 'presence' in immersive technology means:",
+      "options": [
+        "(a) The user is physically moving",
+        "(b) The user feels part of the virtual world",
+        "(c) The user's device is on",
+        "(d) None of these"
+      ],
+      "answer": "b"
+    },
+    "12": {
+      "question": "Which of the following is a wearable haptic device:",
+      "options": [
+        "(a) VR headset",
+        "(b) VR gloves",
+        "(c) Keyboard",
+        "(d) Joystick"
+      ],
+      "answer": "b"
+    },
+    "13": {
+      "question": "Touchable haptics are commonly used in",
+      "options": [
+        "(a) Smartphones and tablets",
+        "(b) Servers",
+        "(c) VR helmets",
+        "(d) Data centers"
+      ],
+      "answer": "a"
+    },
+    "14": {
+      "question": "Mid-air haptics deliver sensations using :",
+      "options": [
+        "(a) Electricity",
+        "(b) Ultrasound waves",
+        "(c) Heat sensors",
+        "(d) Vibrations only"
+      ],
+      "answer": "b"
+    },
+    "15": {
+      "question": "Which immersive technology is most used for training pilots:",
+      "options": [
+        "(a) AR",
+        "(b) VR",
+        "(c) MR",
+        "(d) XR"
+      ],
+      "answer": "b"
+    },
+    "16": {
+      "question": "Which technology provides 3D visual overlays on physical spaces:",
+      "options": [
+        "(a) MR",
+        "(b) AR",
+        "(c) VR",
+        "(d) Haptic"
+      ],
+      "answer": "b"
+    },
+    "17": {
+      "question": "XR is best described as ......",
+      "options": [
+        "(a) Software simulation",
+        "(b) The umbrella term for AR, VR, MR",
+        "(c) Quantum device",
+        "(d) Mechanical design tool"
+      ],
+      "answer": "b"
+    },
+    "18": {
+      "question": "Which industry was among the first to adopt immersive technology widely?",
+      "options": [
+        "(a) Education",
+        "(b) Gaming",
+        "(c) Manufacturing",
+        "(d) Agriculture"
+      ],
+      "answer": "b"
+    },
+    "19": {
+      "question": "Immersive technologies engage which senses?",
+      "options": [
+        "(a) Sight and sound",
+        "(b) Taste and smell",
+        "(c) Balance and touch",
+        "(d) None"
+      ],
+      "answer": "a"
+    },
+    "20": {
+      "question": "Microsoft HoloLens is an example of ......",
+      "options": [
+        "(a) VR device",
+        "(b) MR device",
+        "(c) AR device",
+        "(d) XR headset"
+      ],
+      "answer": "b"
+    },
+    "21": {
+      "question": "In education, immersive technology helps by ......",
+      "options": [
+        "(a) Creating physical textbooks",
+        "(b) Enabling virtual field trips",
+        "(c) Replacing teachers",
+        "(d) Reducing school hours"
+      ],
+      "answer": "b"
+    },
+    "22": {
+      "question": "Medical students use VR to ......",
+      "options": [
+        "(a) Play games",
+        "(b) Practice surgery in virtual environments",
+        "(c) Write reports",
+        "(d) Scan patient IDs"
+      ],
+      "answer": "b"
+    },
+    "23": {
+      "question": "AR can assist engineers by ......",
+      "options": [
+        "(a) Reducing machine cost",
+        "(b) Overlaying design elements on real components",
+        "(c) Replacing hardware",
+        "(d) Printing 3D models"
+      ],
+      "answer": "b"
+    },
+    "24": {
+      "question": "In real estate, VR enables ......",
+      "options": [
+        "(a) Cost estimation",
+        "(b) Remote property tours",
+        "(c) Document management",
+        "(d) Security scanning"
+      ],
+      "answer": "b"
+    },
+    "25": {
+      "question": "AR marketing helps customers by ......",
+      "options": [
+        "(a) Displaying product manuals",
+        "(b) Trying products virtually",
+        "(c) Increasing advertisements",
+        "(d) None"
+      ],
+      "answer": "b"
+    },
+    "26": {
+      "question": "In tourism, immersive technology offers ......",
+      "options": [
+        "(a) Virtual previews of destinations",
+        "(b) Flight discounts",
+        "(c) Paper tickets",
+        "(d) Booking apps only"
+      ],
+      "answer": "a"
+    },
+    "27": {
+      "question": "The military uses VR and AR to ......",
+      "options": [
+        "(a) Entertain troops",
+        "(b) Conduct safe training simulations",
+        "(c) Build bases",
+        "(d) None"
+      ],
+      "answer": "b"
+    },
+    "28": {
+      "question": "Healthcare uses VR for ......",
+      "options": [
+        "(a) Music therapy",
+        "(b) Pain management and mental health",
+        "(c) Billing",
+        "(d) Insurance claims"
+      ],
+      "answer": "b"
+    },
+    "29": {
+      "question": "In architecture, immersive technology allows ......",
+      "options": [
+        "(a) Viewing 3D models before construction",
+        "(b) Enhancing paper drawings",
+        "(c) Speeding up cement drying",
+        "(d) Painting walls"
+      ],
+      "answer": "a"
+    },
+    "30": {
+      "question": "AR glasses are used for ......",
+      "options": [
+        "(a) Showing digital info in real-world view",
+        "(b) Listening to audio",
+        "(c) Printing photos",
+        "(d) Transferring files"
+      ],
+      "answer": "a"
+    }
+  },
+  "Chp 4 Part II": {
+    "31": {
+      "question": "Green computing promotes:",
+      "options": [
+        "(a) Energy conservation",
+        "(b) Faster processors",
+        "(c) Bigger servers",
+        "(d) More power usage"
+      ],
+      "answer": "a"
+    },
+    "32": {
+      "question": "Green IT mainly focuses on:",
+      "options": [
+        "(a) Recycling and reducing e-waste",
+        "(b) Expensive chips",
+        "(c) Cloud gaming",
+        "(d) Crypto mining"
+      ],
+      "answer": "a"
+    },
+    "33": {
+      "question": "Energy-efficient hardware helps by:",
+      "options": [
+        "(a) Increasing electricity cost",
+        "(b) Reducing power consumption",
+        "(c) Producing more heat",
+        "(d) degrating performance"
+      ],
+      "answer": "b"
+    },
+    "34": {
+      "question": "Which of the following is a feature of Green Computing?",
+      "options": [
+        "(a) High carbon footprint",
+        "(b) Use of renewable energy in data centers",
+        "(c) Increasing e-waste",
+        "(d) Faster clock speeds in processors"
+      ],
+      "answer": "b"
+    },
+    "35": {
+      "question": "Data centers improve cooling efficiency using ..........",
+      "options": [
+        "(a) Hot aisle / cold aisle layout",
+        "(b) Random arrangement",
+        "(c) Closed chambers",
+        "(d) Heating ducts"
+      ],
+      "answer": "a"
+    },
+    "36": {
+      "question": "Liquid cooling in data centers is used for ..........",
+      "options": [
+        "(a) Better heat transfer",
+        "(b) Soundproofing",
+        "(c) Data encryption",
+        "(d) Visual enhancement"
+      ],
+      "answer": "a"
+    },
+    "37": {
+      "question": "Virtualization helps green computing by ..........",
+      "options": [
+        "(a) Reducing physical servers",
+        "(b) Increasing storage devices",
+        "(c) Running fewer applications",
+        "(d) Wasting resources"
+      ],
+      "answer": "a"
+    },
+    "38": {
+      "question": "Green computing is also called ..........",
+      "options": [
+        "(a) Cloud IT",
+        "(b) Green IT",
+        "(c) Smart IT",
+        "(d) Energy IT"
+      ],
+      "answer": "b"
+    },
+    "39": {
+      "question": "Which of these is a benefit of green computing?",
+      "options": [
+        "(a) Cost savings",
+        "(b) High temperature",
+        "(c) More pollution",
+        "(d) Data loss"
+      ],
+      "answer": "a"
+    },
+    "40": {
+      "question": "A paperless office contributes to ..........",
+      "options": [
+        "(a) Waste generation",
+        "(b) Green computing",
+        "(c) Carbon increase",
+        "(d) None"
+      ],
+      "answer": "b"
+    },
+    "41": {
+      "question": "The first stage in e-waste management is ..........",
+      "options": [
+        "(a) Sorting",
+        "(b) Collection",
+        "(c) Dismantling",
+        "(d) Recycling"
+      ],
+      "answer": "b"
+    },
+    "42": {
+      "question": "Data destruction ensures ..........",
+      "options": [
+        "(a) File recovery",
+        "(b) Information security",
+        "(c) Power efficiency",
+        "(d) Free software"
+      ],
+      "answer": "b"
+    },
+    "43": {
+      "question": "Shredding is done to ..........",
+      "options": [
+        "(a) Mix components",
+        "(b) Break down parts for sorting",
+        "(c) Repair devices",
+        "(d) None"
+      ],
+      "answer": "b"
+    },
+    "44": {
+      "question": "Magnetic separation removes ..........",
+      "options": [
+        "(a) Plastic",
+        "(b) Steel and iron",
+        "(c) Copper",
+        "(d) Glass"
+      ],
+      "answer": "b"
+    },
+    "45": {
+      "question": "Eddy current separation targets ..........",
+      "options": [
+        "(a) Non-ferrous metals",
+        "(b) Glass",
+        "(c) Wood",
+        "(d) Paper"
+      ],
+      "answer": "a"
+    },
+    "46": {
+      "question": "Water separation helps in separating .........",
+      "options": [
+        "(a) Glass and plastics",
+        "(b) Metals",
+        "(c) Chemicals",
+        "(d) All materials"
+      ],
+      "answer": "a"
+    },
+    "47": {
+      "question": "Material recovery extracts .........",
+      "options": [
+        "(a) Gold, copper, silver",
+        "(b) Plastic, paper, wood",
+        "(c) Lead, mercury",
+        "(d) Glass only"
+      ],
+      "answer": "a"
+    },
+    "48": {
+      "question": "Hazardous waste includes .........",
+      "options": [
+        "(a) Plastic",
+        "(b) Lead, mercury, cadmium",
+        "(c) Paper",
+        "(d) Aluminum"
+      ],
+      "answer": "b"
+    },
+    "49": {
+      "question": "The purpose of e-waste recycling is to .........",
+      "options": [
+        "(a) Produce more e-waste",
+        "(b) Reduce environmental impact",
+        "(c) Generate new waste",
+        "(d) Discard all materials"
+      ],
+      "answer": "b"
+    },
+    "50": {
+      "question": "Recovered materials are used to .........",
+      "options": [
+        "(a) Create new electronic products",
+        "(b) Build buildings",
+        "(c) Produce paper",
+        "(d) Make fuel"
+      ],
+      "answer": "a"
+    },
+    "51": {
+      "question": "Quantum computing is based on .........",
+      "options": [
+        "(a) Quantum mechanics",
+        "(b) Classical physics",
+        "(c) Thermodynamics",
+        "(d) Nanotechnology"
+      ],
+      "answer": "a"
+    },
+    "52": {
+      "question": "The basic unit of quantum information is .........",
+      "options": [
+        "(a) Bit",
+        "(b) Byte",
+        "(c) Qubit",
+        "(d) Node"
+      ],
+      "answer": "c"
+    },
+    "53": {
+      "question": "Superposition allows a qubit to be .........",
+      "options": [
+        "(a) 0 or 1",
+        "(b) 0 and 1 simultaneously",
+        "(c) 2 only",
+        "(d) None"
+      ],
+      "answer": "b"
+    },
+    "54": {
+      "question": "Entanglement means .........",
+      "options": [
+        "(a) Two qubits interact instantly",
+        "(b) Qubits separate",
+        "(c) Bits collide",
+        "(d) Data loss"
+      ],
+      "answer": "a"
+    },
+    "55": {
+      "question": "Quantum interference helps .........",
+      "options": [
+        "(a) Eliminate wrong solutions",
+        "(b) Store memory",
+        "(c) Increase heat",
+        "(d) Encrypt data"
+      ],
+      "answer": "a"
+    },
+    "56": {
+      "question": "Classical computers use .........",
+      "options": [
+        "(a) Qubits",
+        "(b) Bits",
+        "(c) Gates only",
+        "(d) Photons"
+      ],
+      "answer": "b"
+    },
+    "57": {
+      "question": "Quantum computers can solve problems .........",
+      "options": [
+        "(a) Sequentially",
+        "(b) In parallel",
+        "(c) Randomly",
+        "(d) Slowly"
+      ],
+      "answer": "b"
+    },
+    "58": {
+      "question": "Example of a quantum computer .........",
+      "options": [
+        "(a) IBM Quantum",
+        "(b) Dell Laptop",
+        "(c) Raspberry Pi",
+        "(d) Chromebook"
+      ],
+      "answer": "a"
+    },
+    "59": {
+      "question": "Quantum computing helps in .........",
+      "options": [
+        "(a) Drug discovery",
+        "(b) Game design",
+        "(c) Web hosting",
+        "(d) UI design"
+      ],
+      "answer": "a"
+    },
+    "60": {
+      "question": "Quantum Key Distribution (QKD) is used in .........",
+      "options": [
+        "(a) Cryptography",
+        "(b) AI",
+        "(c) Robotics",
+        "(d) Machine learning"
+      ],
+      "answer": "a"
+    }
+  },
+  "Chp 4 Part III": {
+    "61": {
+      "question": "Google’s quantum computer is called .........",
+      "options": [
+        "(a) Titan",
+        "(b) Sycamore",
+        "(c) QuantumX",
+        "(d) DeepMind"
+      ],
+      "answer": "b"
+    },
+    "62": {
+      "question": "Quantum computers process information using .........",
+      "options": [
+        "(a) Classical gates",
+        "(b) Quantum gates",
+        "(c) Optical drives",
+        "(d) CPUs"
+      ],
+      "answer": "b"
+    },
+    "63": {
+      "question": "Quantum computing benefits which field most?",
+      "options": [
+        "(a) Optimization",
+        "(b) Animation",
+        "(c) Gaming",
+        "(d) Cloud hosting"
+      ],
+      "answer": "a"
+    },
+    "64": {
+      "question": "Quantum computing is still in .........",
+      "options": [
+        "(a) Early development stage",
+        "(b) Full production",
+        "(c) Decline",
+        "(d) Decommissioning"
+      ],
+      "answer": "a"
+    },
+    "65": {
+      "question": "A key difference between classical and quantum computing is .........",
+      "options": [
+        "(a) Speed of data transfer",
+        "(b) Representation of data (bits vs qubits)",
+        "(c) Screen resolution",
+        "(d) Hardware design"
+      ],
+      "answer": "b"
+    },
+    "66": {
+      "question": "In quantum computing, probability is used for .........",
+      "options": [
+        "(a) Observing results",
+        "(b) Compressing data",
+        "(c) Encrypting data",
+        "(d) Deleting files"
+      ],
+      "answer": "a"
+    },
+    "67": {
+      "question": "Quantum algorithms are faster for .........",
+      "options": [
+        "(a) Sorting",
+        "(b) Factoring large numbers",
+        "(c) Simple addition",
+        "(d) Text processing"
+      ],
+      "answer": "b"
+    },
+    "68": {
+      "question": "Which principle allows linked qubits to share information instantly?",
+      "options": [
+        "(a) Superposition",
+        "(b) Entanglement",
+        "(c) Holography",
+        "(d) Refraction"
+      ],
+      "answer": "b"
+    },
+    "69": {
+      "question": "Which area can quantum computing revolutionize?",
+      "options": [
+        "(a) Cybersecurity",
+        "(b) Photography",
+        "(c) Social media",
+        "(d) Printing"
+      ],
+      "answer": "a"
+    },
+    "70": {
+      "question": "The main challenge in building quantum computers is .........",
+      "options": [
+        "(a) Data storage",
+        "(b) Qubit stability and error correction",
+        "(c) Color display",
+        "(d) User interface"
+      ],
+      "answer": "b"
+    },
+    "71": {
+      "question": "How does AR differ from VR?",
+      "options": [
+        "(a) AR fully replaces the real world; VR only enhances it",
+        "(b) AR enhances the real world with digital overlays, VR replaces the real world",
+        "(c) AR and VR are the same in terms of immersion",
+        "(d) AR requires haptic suits while VR does not"
+      ],
+      "answer": "b"
+    },
+    "72": {
+      "question": "Why Mixed Reality (MR) is considered more advanced than AR?",
+      "options": [
+        "(a) MR only works on smartphones",
+        "(b) MR allows digital and physical objects to interact in real-time",
+        "(c) MR completely ignores the real environment",
+        "(d) MR is only used in gaming"
+      ],
+      "answer": "b"
+    },
+    "73": {
+      "question": "Which application of immersive technology is best explained by “IKEA’s AR app to visualize furniture”?",
+      "options": [
+        "(a) Tourism",
+        "(b) Retail & E-commerce",
+        "(c) Entertainment",
+        "(d) Healthcare"
+      ],
+      "answer": "b"
+    },
+    "74": {
+      "question": "Which of the following best explains server virtualization in Green Computing?",
+      "options": [
+        "(a) Increasing the number of servers to balance workload",
+        "(b) Using one physical server to host multiple virtual machines",
+        "(c) Reducing server speed to save energy",
+        "(d) Recycling old servers into new ones."
+      ],
+      "answer": "b"
+    },
+    "75": {
+      "question": "Why is quantum superposition powerful?",
+      "options": [
+        "(a) It reduces memory usage in computers",
+        "(b) It allows a qubit to exist in multiple states at once",
+        "(c) It eliminates the need for quantum gates",
+        "(d) It increases processor clock speeds"
+      ],
+      "answer": "b"
+    },
+    "76": {
+      "question": "A medical student practices surgery using a VR simulator before treating a real patient. This is an example of:",
+      "options": [
+        "(a) Entertainment application of VR",
+        "(b) Education & Training application of VR",
+        "(c) AR in healthcare",
+        "(d) Haptic feedback technology"
+      ],
+      "answer": "b"
+    },
+    "77": {
+      "question": "A soldier trains in a VR battlefield before deployment. Which immersive technology application does this represent?",
+      "options": [
+        "(a) Healthcare",
+        "(b) Tourism",
+        "(c) Defense & Military",
+        "(d) Sports & Fitness"
+      ],
+      "answer": "c"
+    },
+    "78": {
+      "question": "A smartphone provides vibration feedback when pressing a touchscreen button. This is an example of:",
+      "options": [
+        "(a) Augmented Reality",
+        "(b) Extended Reality",
+        "(c) Haptic Technology",
+        "(d) Quantum Interference"
+      ],
+      "answer": "c"
+    },
+    "79": {
+      "question": "A data center reduces cooling costs by using free air cooling and liquid cooling. This demonstrates:",
+      "options": [
+        "(a) Quantum computing optimization",
+        "(b) E-waste management",
+        "(c) Green Data Center Practices",
+        "(d) Mixed Reality in Industry"
+      ],
+      "answer": "c"
+    },
+    "80": {
+      "question": "A company wants to simulate new drug molecules to accelerate vaccine development. Which technology is most suitable?",
+      "options": [
+        "(a) Virtual Reality",
+        "(b) Quantum Computing",
+        "(c) Green Computing",
+        "(d) Mixed Reality"
+      ],
+      "answer": "b"
+    }
+  },
+  "Chp 5 Part I": {
+    "1": {
+      "question": "Digital Forensics is primarily concerned with ......",
+      "options": [
+        "(a) building computer systems",
+        "(b) Preservation, identification, extraction, and documentation of computer evidence",
+        "(c) software development",
+        "(d) network installation"
+      ],
+      "answer": "b"
+    },
+    "2": {
+      "question": "............... is a branch of forensic science encompassing the recovery and investigation of material found in digital devices.",
+      "options": [
+        "(a) Analog forensic",
+        "(b) Digital forensic",
+        "(c) Cyber forensic",
+        "(d) Computer forensic"
+      ],
+      "answer": "b"
+    },
+    "3": {
+      "question": "Digital forensics helps in ......",
+      "options": [
+        "(a) Breaking software licenses",
+        "(b) Estimating potential impact of malicious activity",
+        "(c) Upgrading hardware",
+        "(d) Designing new programming languages"
+      ],
+      "answer": "b"
+    },
+    "4": {
+      "question": "Major goal of Digital Forensics is ?",
+      "options": [
+        "(a) To duplicate original data and preserve original evidence",
+        "(b) Validation of digital information",
+        "(c) Collection of digital evidence",
+        "(d) All of above"
+      ],
+      "answer": "d"
+    },
+    "5": {
+      "question": "Which of the following is an objective of digital forensics?",
+      "options": [
+        "(a) Design UI for software",
+        "(b) Recover, analyze, and preserve computer materials for legal proceedings",
+        "(c) Develop malware",
+        "(d) Install operating systems"
+      ],
+      "answer": "b"
+    },
+    "6": {
+      "question": "Investigator should follow following rule/rules?",
+      "options": [
+        "(a) Computer and data must be protected during acquisition",
+        "(b) Examination should never be performed on original media",
+        "(c) Both A & B",
+        "(d) A is true B is False"
+      ],
+      "answer": "c"
+    },
+    "7": {
+      "question": "Which of the following is a core rule of digital forensics?",
+      "options": [
+        "(a) Work directly on original evidence",
+        "(b) Maintain integrity and create a forensically sound copy",
+        "(c) Ignore documentation",
+        "(d) Skip chain of custody"
+      ],
+      "answer": "b"
+    },
+    "8": {
+      "question": "Forensic duplication is necessary because:",
+      "options": [
+        "(a) To save storage space",
+        "(b) To preserve original evidence while analysis",
+        "(c) To speed up installation",
+        "(d) To format drives"
+      ],
+      "answer": "b"
+    },
+    "9": {
+      "question": "Which tool is widely used for forensic imaging?",
+      "options": [
+        "(a) Wireshark",
+        "(b) Encase",
+        "(c) MS Excel",
+        "(d) Notepad"
+      ],
+      "answer": "b"
+    },
+    "10": {
+      "question": "Forensic triage is performed to:",
+      "options": [
+        "(a) Repair hardware",
+        "(b) Quickly assess and prioritize evidence",
+        "(c) Encrypt files",
+        "(d) Install antivirus"
+      ],
+      "answer": "b"
+    },
+    "11": {
+      "question": "Metadata in digital evidence includes:",
+      "options": [
+        "(a) Data about data",
+        "(b) File content only",
+        "(c) File size only",
+        "(d) IP addresses only"
+      ],
+      "answer": "a"
+    },
+    "12": {
+      "question": "Imaging a storage device ensures ......",
+      "options": [
+        "(a) Deletion of files",
+        "(b) Exact bit-by-bit copy",
+        "(c) Faster internet",
+        "(d) Encryption"
+      ],
+      "answer": "b"
+    },
+    "13": {
+      "question": "Hashing in digital forensics is used to:",
+      "options": [
+        "(a) Compress data",
+        "(b) Verify integrity",
+        "(c) Encrypt emails",
+        "(d) Convert files"
+      ],
+      "answer": "b"
+    },
+    "14": {
+      "question": "Which model is used for real-time forensic analysis?",
+      "options": [
+        "(a) DFRWS",
+        "(b) Live Forensic Model",
+        "(c) IDIP",
+        "(d) ADFM"
+      ],
+      "answer": "b"
+    },
+    "15": {
+      "question": "Footprinting in ethical hacking is done to...",
+      "options": [
+        "(a) Plant malware",
+        "(b) Gather preliminary information",
+        "(c) Delete accounts",
+        "(d) Crack passwords"
+      ],
+      "answer": "b"
+    },
+    "16": {
+      "question": "Scanning in hacking helps to:",
+      "options": [
+        "(a) Exploit vulnerabilities",
+        "(b) Identify open ports and weaknesses",
+        "(c) Encrypt network",
+        "(d) Backup"
+      ],
+      "answer": "b"
+    },
+    "17": {
+      "question": "Enumeration phase involves:",
+      "options": [
+        "(a) Listing targets and details",
+        "(b) Installing antivirus",
+        "(c) Backup",
+        "(d) Reporting"
+      ],
+      "answer": "a"
+    },
+    "18": {
+      "question": "Post-exploitation phase is for:",
+      "options": [
+        "(a) Restore system",
+        "(b) Maintain access and extract data",
+        "(c) Scan system",
+        "(d) Run antivirus"
+      ],
+      "answer": "b"
+    },
+    "19": {
+      "question": "First stage in digital forensics investigation?",
+      "options": [
+        "(a) Analysis",
+        "(b) Documentation",
+        "(c) Identification",
+        "(d) Presentation"
+      ],
+      "answer": "c"
+    },
+    "20": {
+      "question": "Which stage creates forensic image?",
+      "options": [
+        "(a) Identification",
+        "(b) Preservation",
+        "(c) Documentation",
+        "(d) Presentation"
+      ],
+      "answer": "b"
+    },
+    "21": {
+      "question": "Freezing crime scene digitally is:",
+      "options": [
+        "(a) Analysis",
+        "(b) Preservation",
+        "(c) Documentation",
+        "(d) Collection"
+      ],
+      "answer": "b"
+    },
+    "22": {
+      "question": "Why preserve evidence?",
+      "options": [
+        "(a) Compress data",
+        "(b) Maintain integrity",
+        "(c) Speed recovery",
+        "(d) Allow duplication"
+      ],
+      "answer": "b"
+    },
+    "23": {
+      "question": "Preservation phase involves:",
+      "options": [
+        "(a) Collect & maintain custody",
+        "(b) Reporting",
+        "(c) Install patches",
+        "(d) Monitor network"
+      ],
+      "answer": "a"
+    },
+    "24": {
+      "question": "Used to ensure data integrity:",
+      "options": [
+        "(a) Checksum",
+        "(b) Hash",
+        "(c) Packet",
+        "(d) Cipher"
+      ],
+      "answer": "b"
+    },
+    "25": {
+      "question": "Sources of digital evidence:",
+      "options": [
+        "(a) Internet files",
+        "(b) Devices",
+        "(c) Mobiles",
+        "(d) All of above"
+      ],
+      "answer": "d"
+    },
+    "26": {
+      "question": "Why chain of custody?",
+      "options": [
+        "(a) Reduce paperwork",
+        "(b) Prove integrity",
+        "(c) Speed investigation",
+        "(d) Delete files"
+      ],
+      "answer": "b"
+    },
+    "27": {
+      "question": "Procedural step in custody:",
+      "options": [
+        "(a) Work original",
+        "(b) Hash test",
+        "(c) Alter evidence",
+        "(d) Declare confidential"
+      ],
+      "answer": "b"
+    },
+    "28": {
+      "question": "Importance of custody?",
+      "options": [
+        "(a) Preserve integrity",
+        "(b) Prevent contamination",
+        "(c) Maintain state",
+        "(d) All"
+      ],
+      "answer": "d"
+    },
+    "29": {
+      "question": "Correct sequence of custody steps?\n1. Save the original materials\n2. Perform a hash test analysis to further authenticate the working clone\n3. Take screenshot of digital evidence content \n4. Inject bit by bit clone of digital evidence content into our forensic computers",
+      "options": [
+        "(a) 1,2,3,4",
+        "(b) 1,3,4,2",
+        "(c) 2,3,4,1",
+        "(d) 3,4,1,2"
+      ],
+      "answer": "b"
+    },
+    "30": {
+      "question": "Volatile data refers to:",
+      "options": [
+        "(a) Hard disk",
+        "(b) RAM data",
+        "(c) External drive",
+        "(d) Encrypted"
+      ],
+      "answer": "b"
+    }
+  },
+  "Chp 5 Part II": {
+    "31": {
+      "question": "DFRWS model proposed in:",
+      "options": [
+        "(a) 1999",
+        "(b) 2001",
+        "(c) 2005",
+        "(d) 2010"
+      ],
+      "answer": "b"
+    },
+    "32": {
+      "question": "DFRWS belongs to:",
+      "options": [
+        "(a) Digital forensics",
+        "(b) OS hacking",
+        "(c) Web dev",
+        "(d) Network testing"
+      ],
+      "answer": "a"
+    },
+    "33": {
+      "question": "ADFM stands for:",
+      "options": [
+        "(a) Analog DF Model",
+        "(b) Abstract DF Model",
+        "(c) Abstract Discrete",
+        "(d) Analog Discrete"
+      ],
+      "answer": "b"
+    },
+    "34": {
+      "question": "EMCI means:",
+      "options": [
+        "(a) Extended Model for Cybercrime Investigation",
+        "(b) Electronic Model",
+        "(c) Extended Mode",
+        "(d) Emergency Model"
+      ],
+      "answer": "a"
+    },
+    "35": {
+      "question": "UMDFPM stands for:",
+      "options": [
+        "(a) Unified Model of Digital Forensic Process",
+        "(b) UML Modeling",
+        "(c) Universal Method",
+        "(d) Unified Module"
+      ],
+      "answer": "a"
+    },
+    "36": {
+      "question": "Model adding preparation & return phase:",
+      "options": [
+        "(a) DFRWS",
+        "(b) ADFM",
+        "(c) IDIP",
+        "(d) EEDIP"
+      ],
+      "answer": "d"
+    },
+    "37": {
+      "question": "Identify forensic model:",
+      "options": [
+        "(a) IDIP",
+        "(b) EMCI",
+        "(c) Waterfall",
+        "(d) ADFM"
+      ],
+      "answer": "d"
+    },
+    "38": {
+      "question": "ADFM phase for conclusion:",
+      "options": [
+        "(a) Strategy",
+        "(b) Presentation",
+        "(c) Preservation",
+        "(d) Analysis"
+      ],
+      "answer": "b"
+    },
+    "39": {
+      "question": "Preparation phase includes:",
+      "options": [
+        "(a) Collection",
+        "(b) Examination",
+        "(c) Preservation",
+        "(d) Preparation"
+      ],
+      "answer": "d"
+    },
+    "40": {
+      "question": "IDIP model integrates:",
+      "options": [
+        "(a) Only digital",
+        "(b) Digital & physical",
+        "(c) Only network",
+        "(d) Only legal"
+      ],
+      "answer": "b"
+    },
+    "41": {
+      "question": "Integrated Digital Investigation Process (IDIP) mainly focuses on-",
+      "options": [
+        "(a) OS patching",
+        "(b) Cloud backup",
+        "(c) Data encryption",
+        "(d) Linking physical and digital crimes"
+      ],
+      "answer": "d"
+    },
+    "42": {
+      "question": "In IDIP Model, to provide mechanism to detect and confirm an incident is the purpose of which phase?",
+      "options": [
+        "(a) Review phase",
+        "(b) Physical crime investigation",
+        "(c) Deployment phase",
+        "(d) Digital crime investigation"
+      ],
+      "answer": "c"
+    },
+    "43": {
+      "question": "Which phase of IDIP model includes Detection & Notification Phase?",
+      "options": [
+        "(a) Deployment Phase",
+        "(b) Physical Crime Investigation",
+        "(c) Readiness",
+        "(d) Review phase"
+      ],
+      "answer": "a"
+    },
+    "44": {
+      "question": "In IDIP Model, which phase develops investigative hypotheses?",
+      "options": [
+        "(a) Review phase",
+        "(b) Presentation phase",
+        "(c) Reconstruction phase",
+        "(d) Notification phase"
+      ],
+      "answer": "c"
+    },
+    "45": {
+      "question": "In IDIP, Digital crime investigation phase includes ...... ?",
+      "options": [
+        "(a) Survey phase",
+        "(b) Documentation phase",
+        "(c) Search and collection phase",
+        "(d) All of above"
+      ],
+      "answer": "d"
+    },
+    "46": {
+      "question": "Planning, Transport of Evidence and Presentation of hypothesis are phases of which model?",
+      "options": [
+        "(a) ADFM",
+        "(b) EMCI",
+        "(c) IDIP",
+        "(d) None of these"
+      ],
+      "answer": "b"
+    },
+    "47": {
+      "question": "Hypothesis is the phase of which forensic model?",
+      "options": [
+        "(a) ADFM",
+        "(b) EMCI",
+        "(c) IDIP",
+        "(d) RoadMap"
+      ],
+      "answer": "b"
+    },
+    "48": {
+      "question": "Which model is suitable for multi-agency cybercrime cases requiring structured communication?",
+      "options": [
+        "(a) DFRWS",
+        "(b) Extended Model for Cybercrime Investigation",
+        "(c) ADFM",
+        "(d) IDIP"
+      ],
+      "answer": "b"
+    },
+    "49": {
+      "question": "Which model focuses on end-to-end traceability and automated documentation?",
+      "options": [
+        "(a) DFRWS",
+        "(b) EEDIP",
+        "(c) UMDFPM",
+        "(d) ADFM"
+      ],
+      "answer": "c"
+    },
+    "50": {
+      "question": "Which model emphasizes legal admissibility of evidence?",
+      "options": [
+        "(a) DFRWS",
+        "(b) ADFM",
+        "(c) IDIP",
+        "(d) EEDIP"
+      ],
+      "answer": "d"
+    },
+    "51": {
+      "question": "Black-hat hacking is...........",
+      "options": [
+        "(a) Legal tester",
+        "(b) Malicious hackers exploiting vulnerabilities",
+        "(c) Students learning hacking",
+        "(d) Cyber security officers"
+      ],
+      "answer": "b"
+    },
+    "52": {
+      "question": "Blue Hat hackers are usually:",
+      "options": [
+        "(a) Internal testers before release",
+        "(b) Malicious hackers",
+        "(c) Government hackers",
+        "(d) Script kiddies"
+      ],
+      "answer": "a"
+    },
+    "53": {
+      "question": "Script kiddies are:",
+      "options": [
+        "(a) Experts",
+        "(b) Unskilled attackers using tools",
+        "(c) Professionals",
+        "(d) AI tools"
+      ],
+      "answer": "b"
+    },
+    "54": {
+      "question": "Hacktivists are motivated by:",
+      "options": [
+        "(a) Money",
+        "(b) Political/social causes",
+        "(c) Espionage",
+        "(d) Virus creation"
+      ],
+      "answer": "b"
+    },
+    "55": {
+      "question": "State-sponsored hackers are:",
+      "options": [
+        "(a) Ethical testers",
+        "(b) Government-backed attackers",
+        "(c) Students",
+        "(d) Pen testers"
+      ],
+      "answer": "b"
+    },
+    "56": {
+      "question": "Which hacker type acts legally?",
+      "options": [
+        "(a) Black Hat",
+        "(b) White Hat",
+        "(c) Grey Hat",
+        "(d) Blue Hat"
+      ],
+      "answer": "b"
+    },
+    "57": {
+      "question": "Which hacker may access systems without permission but no harm?",
+      "options": [
+        "(a) White Hat",
+        "(b) Grey Hat",
+        "(c) Red Hat",
+        "(d) Green Hat"
+      ],
+      "answer": "b"
+    },
+    "58": {
+      "question": "Hacker exploiting telephones is called:",
+      "options": [
+        "(a) White hat",
+        "(b) Black hat",
+        "(c) Phreaker",
+        "(d) Hacktivist"
+      ],
+      "answer": "c"
+    },
+    "59": {
+      "question": "Experts who write hacking tools are:",
+      "options": [
+        "(a) Hacktivist",
+        "(b) Criminal Hackers",
+        "(c) Script Kiddies",
+        "(d) Security Researchers"
+      ],
+      "answer": "d"
+    },
+    "60": {
+      "question": "Red Hat hacker is known for:",
+      "options": [
+        "(a) Malware profit",
+        "(b) Stopping black hats aggressively",
+        "(c) Beginner",
+        "(d) Ethical testing"
+      ],
+      "answer": "b"
+    }
+  },
+  "Chp 5 Part III": {
+    "61": {
+      "question": "Ethical hacking is ......",
+      "options": [
+        "(a) Illegal hacking",
+        "(b) Authorized testing",
+        "(c) Malware install",
+        "(d) Ignore security"
+      ],
+      "answer": "b"
+    },
+    "62": {
+      "question": "Ethical hacking is..............",
+      "options": [
+        "(a) Finding system weaknesses",
+        "(b) Finding programmer weakness",
+        "(c) Attacking software",
+        "(d) Enforcing weakness"
+      ],
+      "answer": "a"
+    },
+    "63": {
+      "question": "Password cracking for testing is:",
+      "options": [
+        "(a) Security auditing",
+        "(b) Ethical hacking",
+        "(c) System engineering",
+        "(d) Social engineering"
+      ],
+      "answer": "b"
+    },
+    "64": {
+      "question": "Performed with permission:",
+      "options": [
+        "(a) Ethical hacking",
+        "(b) Social engineering",
+        "(c) System engineering",
+        "(d) Testing"
+      ],
+      "answer": "a"
+    },
+    "65": {
+      "question": "Correct hacking sequence:\nA. Maintaining Access\nB. Reconnaissance\nC. Scanning\nD. Gaining Access",
+      "options": [
+        "(a) B,C,D,A",
+        "(b) B,A,C,D",
+        "(c) A,B,C,D",
+        "(d) D,C,B,A"
+      ],
+      "answer": "a"
+    },
+    "66": {
+      "question": "Not a phase of ethical hacking:",
+      "options": [
+        "(a) Reconnaissance",
+        "(b) Scanning",
+        "(c) System destruction",
+        "(d) Reporting"
+      ],
+      "answer": "c"
+    },
+    "67": {
+      "question": "Intent of ethical hacking:",
+      "options": [
+        "(a) Find hackers",
+        "(b) Promote attackers",
+        "(c) Find vulnerabilities",
+        "(d) Introduce vulnerabilities"
+      ],
+      "answer": "c"
+    },
+    "68": {
+      "question": "Goal of ethical hacker:",
+      "options": [
+        "(a) Non-destructive",
+        "(b) Destructive",
+        "(c) Highly destructive",
+        "(d) Corruptive"
+      ],
+      "answer": "a"
+    },
+    "69": {
+      "question": "Think like a thief refers to:",
+      "options": [
+        "(a) Security testing",
+        "(b) Ethical hacking",
+        "(c) Config testing",
+        "(d) Performance testing"
+      ],
+      "answer": "b"
+    },
+    "70": {
+      "question": "Cyberterrorists do:",
+      "options": [
+        "(a) Write tools",
+        "(b) Security experts",
+        "(c) Attack infrastructure",
+        "(d) Novice users"
+      ],
+      "answer": "c"
+    },
+    "71": {
+      "question": "Exploiting human element is:",
+      "options": [
+        "(a) Social Engineering",
+        "(b) IT Engineering",
+        "(c) Testing",
+        "(d) Ethical hacking"
+      ],
+      "answer": "a"
+    },
+    "72": {
+      "question": "AI-powered attack:",
+      "options": [
+        "(a) Ransomware 2.0",
+        "(b) Deepfake phishing",
+        "(c) OS downgrade",
+        "(d) Firmware exploit"
+      ],
+      "answer": "b"
+    },
+    "73": {
+      "question": "Ransomware 2.0 is:",
+      "options": [
+        "(a) Encrypt only",
+        "(b) Encrypt + data theft",
+        "(c) Network exploit",
+        "(d) OS downgrade"
+      ],
+      "answer": "b"
+    },
+    "74": {
+      "question": "IoT exploits involve:",
+      "options": [
+        "(a) Social engineering",
+        "(b) Insecure devices",
+        "(c) App bypass",
+        "(d) Red hat"
+      ],
+      "answer": "b"
+    },
+    "75": {
+      "question": "Zero-day exploits are:",
+      "options": [
+        "(a) Known bugs",
+        "(b) Unknown vulnerabilities",
+        "(c) OS downgrade",
+        "(d) Web issues"
+      ],
+      "answer": "b"
+    },
+    "76": {
+      "question": "WAF bypass targets:",
+      "options": [
+        "(a) OS",
+        "(b) Web apps",
+        "(c) IoT",
+        "(d) Firmware"
+      ],
+      "answer": "b"
+    },
+    "77": {
+      "question": "Deepfake is:",
+      "options": [
+        "(a) Media manipulation",
+        "(b) Password cracking",
+        "(c) Firmware upgrade",
+        "(d) Hardware"
+      ],
+      "answer": "a"
+    },
+    "78": {
+      "question": "AI phishing belongs to:",
+      "options": [
+        "(a) Application",
+        "(b) Network",
+        "(c) OS",
+        "(d) Firmware"
+      ],
+      "answer": "a"
+    },
+    "79": {
+      "question": "Unknown vulnerability exploit:",
+      "options": [
+        "(a) Zero-day",
+        "(b) Ransomware",
+        "(c) Deepfake",
+        "(d) Custody error"
+      ],
+      "answer": "a"
+    },
+    "80": {
+      "question": "Phishing aims to:",
+      "options": [
+        "(a) Spam",
+        "(b) Steal sensitive info",
+        "(c) Encrypt files",
+        "(d) Scan network"
+      ],
+      "answer": "b"
+    },
+    "81": {
+      "question": "Ransomware attacks primarily involve:",
+      "options": [
+        "(a) Stealing identities",
+        "(b) Encrypting user data and demanding ransom",
+        "(c) Crashing websites",
+        "(d) Spamming emails"
+      ],
+      "answer": "b"
+    },
+    "82": {
+      "question": "IoT botnets are used to:",
+      "options": [
+        "(a) Launch DDoS attacks",
+        "(b) Encrypt files",
+        "(c) Test network speed",
+        "(d) Clean devices"
+      ],
+      "answer": "a"
+    },
+    "83": {
+      "question": "Malware is:",
+      "options": [
+        "(a) Authorized software",
+        "(b) Malicious software designed to disrupt or damage",
+        "(c) Antivirus software",
+        "(d) Operating system upgrade"
+      ],
+      "answer": "b"
+    },
+    "84": {
+      "question": "Zero-day attacks are dangerous because:",
+      "options": [
+        "(a) They use old vulnerabilities",
+        "(b) There is no patch available yet",
+        "(c) They are easy to prevent",
+        "(d) They target only students"
+      ],
+      "answer": "b"
+    },
+    "85": {
+      "question": "National Cyber Security Policy (NCSP) 2013 aims to ......",
+      "options": [
+        "(a) Increase internet speed in India",
+        "(b) Protect public and private infrastructure from cyber attacks",
+        "(c) Ban all social media",
+        "(d) Create malware"
+      ],
+      "answer": "b"
+    },
+    "86": {
+      "question": "IT Act 2000 primarily deals with ......",
+      "options": [
+        "(a) Hardware design",
+        "(b) Electronic records, digital signatures, and cybercrime",
+        "(c) Building networks",
+        "(d) Installing OS updates"
+      ],
+      "answer": "b"
+    },
+    "87": {
+      "question": "In Section 65, Tampering with computer source documents leads to the penalty as:",
+      "options": [
+        "(a) Imprisonment up to three years, or/and with fine up to ₹200,000",
+        "(b) Imprisonment up to three years, or/and with fine up to ₹100,000",
+        "(c) Imprisonment up to three years, or/and with fine up to ₹500,000",
+        "(d) Imprisonment up to life"
+      ],
+      "answer": "a"
+    },
+    "88": {
+      "question": "The Digital Personal Data Protection Act (DPDP) 2023 ensures:",
+      "options": [
+        "(a) Free access to all data",
+        "(b) Encourages phishing attacks",
+        "(c) Lawful processing of personal data with consent",
+        "(d) Deletion of all user data automatically"
+      ],
+      "answer": "c"
+    },
+    "89": {
+      "question": "CCPWC Scheme (2018) focuses on:",
+      "options": [
+        "(a) Cybercrime prevention against women and children",
+        "(b) Reducing malware attacks",
+        "(c) Ethical Hacking training only",
+        "(d) IoT security"
+      ],
+      "answer": "a"
+    },
+    "90": {
+      "question": "Which section of IT Act 2000 deals with hacking and computer offenses?",
+      "options": [
+        "(a) Section 43",
+        "(b) Section 66",
+        "(c) Section 72A",
+        "(d) Section 69"
+      ],
+      "answer": "b"
+    }
+  },
+  "Chp 5 Part IV": {
+    "91": {
+      "question": "The IT (Amendment) Act 2008 introduced:",
+      "options": [
+        "(a) Only digital signatures",
+        "(b) Cybercrime provision including identity theft, phishing & cyber terrorism",
+        "(c) Internet connectivity rules",
+        "(d) Hardware standards"
+      ],
+      "answer": "b"
+    },
+    "92": {
+      "question": "Digital Personal Data Protection Act (DPDP) 2023 replaced......",
+      "options": [
+        "(a) IT Act 2000 completely",
+        "(b) Some provisions related to personal data protection under IT Act",
+        "(c) Only Copyright law",
+        "(d) Cybercrime section"
+      ],
+      "answer": "b"
+    },
+    "93": {
+      "question": "Cybercrime against women & children is covered under:",
+      "options": [
+        "(a) IT Act Section 43",
+        "(b) IT Act 66A/66B & CCPWC Scheme",
+        "(c) DPDP Act only",
+        "(d) NCSP only"
+      ],
+      "answer": "b"
+    },
+    "94": {
+      "question": "Law that mandates consent for collecting personal data?",
+      "options": [
+        "(a) IT Act 2000",
+        "(b) DPDP Act 2023",
+        "(c) CCPWC Scheme",
+        "(d) NCSP 2013"
+      ],
+      "answer": "b"
+    },
+    "95": {
+      "question": "NCSP 2013 was formulated by:",
+      "options": [
+        "(a) UNESCO",
+        "(b) Government of India",
+        "(c) Private companies",
+        "(d) Ethical hackers"
+      ],
+      "answer": "b"
+    },
+    "96": {
+      "question": "Which IT Act amendment introduced the Digital Personal Data Protection (DPDP) Act?",
+      "options": [
+        "(a) 2000",
+        "(b) 2008",
+        "(c) 2023",
+        "(d) 2013"
+      ],
+      "answer": "c"
+    },
+    "97": {
+      "question": "Police investigating online child exploitation cases would rely on which scheme?",
+      "options": [
+        "(a) NCSP 2013",
+        "(b) IT Act 2000",
+        "(c) CCPWC 2018",
+        "(d) DPDP 2023"
+      ],
+      "answer": "c"
+    },
+    "98": {
+      "question": "A company discovers its employees are receiving AI-generated phishing emails, which type of hacking is this?",
+      "options": [
+        "(a) OS hacking",
+        "(b) Application hacking",
+        "(c) Network hacking",
+        "(d) Firmware hacking"
+      ],
+      "answer": "b"
+    },
+    "99": {
+      "question": "If an attacker uses a deep fake voice to trick a bank employee into transferring money, this attack can be classified as:",
+      "options": [
+        "(a) Network phishing",
+        "(b) Social engineering with AI exploits",
+        "(c) Firmware attack",
+        "(d) OS downgrade attack"
+      ],
+      "answer": "b"
+    },
+    "100": {
+      "question": "A forensic investigator is analyzing encrypted ransomware files. The encryption key was deleted by the attacker. To prove the case in court, which forensic step is most critical?",
+      "options": [
+        "(a) Collection",
+        "(b) Chain of custody",
+        "(c) Preservation",
+        "(d) Presentation"
+      ],
+      "answer": "b"
+    },
+    "101": {
+      "question": "A financial company’s servers are encrypted by a ransomware gang. Attackers demand cryptocurrency payment and threaten to leak confidential customer data if the ransom is not paid. Identify the type of hacking involved in this case.",
+      "options": [
+        "(a) Application hacking",
+        "(b) Network hacking – Ransomware 2.0",
+        "(c) Firmware exploits",
+        "(d) OS downgrade attack"
+      ],
+      "answer": "b"
+    },
+    "102": {
+      "question": "A multinational company handling Indian citizen’s personal data fails to comply with the DPDP Act 2023. Which risk do they face?",
+      "options": [
+        "(a) Cyber forensic investigation",
+        "(b) Legal penalties and restrictions on data processing",
+        "(c) Ethical hacking mandates",
+        "(d) NCSP 2013 enforcement"
+      ],
+      "answer": "b"
+    }
+  },
+  "MANAGEMENT" : {
+    "1": {
+      "question": "…………… makes up a quality circle team?",
+      "options": [
+        "(a) Only upper management",
+        "(b) External consultants",
+        "(c) A group of workers from the same or different department",
+        "(d) A group of customers"
+      ],
+      "answer": "c"
+    },
+    "2": {
+      "question": "A quality circle is primarily used for",
+      "options": [
+        "(a) Production planning",
+        "(b) Continuous improvement",
+        "(c) Product design",
+        "(d) Strategic planning"
+      ],
+      "answer": "b"
+    },
+    "3": {
+      "question": "Identify the best suitable Kaizen approach for problem-solving from following",
+      "options": [
+        "(a) Top-down decision-making",
+        "(b) Reactive, only addressing problems after they occur",
+        "(c) Proactive, focusing on constant, small improvements",
+        "(d) Ignoring employee feedback in decision-making"
+      ],
+      "answer": "c"
+    },
+    "4": {
+      "question": "The main goal of Six Sigma methodology is ___________",
+      "options": [
+        "(a) To eliminate defects and improve quality",
+        "(b) Increase production speed",
+        "(c) To reduce the number of employees",
+        "(d) To lower operational costs without considering quality"
+      ],
+      "answer": "a"
+    },
+    "5": {
+      "question": "In a Kanban system, what does a 'Kanban card' typically represent?",
+      "options": [
+        "(a) A detailed list of orders",
+        "(b) A request for more raw materials",
+        "(c) A visual signal for replenishing inventory",
+        "(d) A work schedule for employees"
+      ],
+      "answer": "c"
+    },
+    "6": {
+      "question": "The primary purpose of the Kanban card system is",
+      "options": [
+        "(a) To track employee performance",
+        "(b) To manage inventory and control the flow of materials",
+        "(c) To improve employee scheduling",
+        "(d) To track customer feedback"
+      ],
+      "answer": "b"
+    },
+    "7": {
+      "question": "The primary goal of the 'Set in Order' step of 5S is to",
+      "options": [
+        "(a) Eliminate waste by minimizing unnecessary items in the workspace",
+        "(b) Clean and maintain all equipment",
+        "(c) Organize tools and materials for easy access and flow",
+        "(d) Create standard operating procedures"
+      ],
+      "answer": "c"
+    },
+    "8": {
+      "question": "………………….. is NOT a key element of TPM",
+      "options": [
+        "(a) Corrective maintenance",
+        "(b) Scheduled preventive maintenance",
+        "(c) Employee involvement in maintenance prevention",
+        "(d) Outsourcing all equipment repairs"
+      ],
+      "answer": "d"
+    },
+    "9": {
+      "question": "The abbreviation 'ISO' stand for?",
+      "options": [
+        "(a) International Service Organization",
+        "(b) International Standards Organization",
+        "(c) International System Organization",
+        "(d) International Organization for Standardization"
+      ],
+      "answer": "d"
+    },
+    "10": {
+      "question": "The key types of quality standards include following standards except",
+      "options": [
+        "(A) FDA standards",
+        "(B) ISO standards",
+        "(C) Lean/Agile Quality standards",
+        "(D) PERT/CPM"
+      ],
+      "answer": "D"
+    },
+    "11": {
+      "question": "From the following __________ is NOT a quality standard.",
+      "options": [
+        "(A) ISO 9001",
+        "(B) ISO 14001",
+        "(C) Six Sigma",
+        "(D) ISO 50001"
+      ],
+      "answer": "C"
+    },
+    "12": {
+      "question": "The PDCA cycle stands for ____________",
+      "options": [
+        "(A) Plan-Do-Check-Act",
+        "(B) Plan-Do-Check-Assess",
+        "(C) Prepare-Differ-Correct-Act",
+        "(D) Plan-Do-Cite-Advice"
+      ],
+      "answer": "A"
+    },
+    "13": {
+      "question": "OSHA‘s General Industry Standard includes",
+      "options": [
+        "(A) Excavation",
+        "(B) Workplace safety",
+        "(C) Risk from shipboard operations",
+        "(D) Tractor safety"
+      ],
+      "answer": "B"
+    },
+    "14": {
+      "question": "ERP system uses _____________ platforms",
+      "options": [
+        "(A) Decentralized",
+        "(B) Autocratic",
+        "(C) Centralized",
+        "(D) Democratic"
+      ],
+      "answer": "C"
+    },
+    "15": {
+      "question": "The primary goal of ERP (Enterprise Resource Planning) systems is to",
+      "options": [
+        "(A) Increase company profits by reducing employee salaries",
+        "(B) Increase productivity & provide real-time data",
+        "(C) Manage employee personal information",
+        "(D) Reduce the need for communication across departments"
+      ],
+      "answer": "B"
+    },
+    "16": {
+      "question": "The main advantages of cloud-based ERP system includes",
+      "options": [
+        "(a) Higher upfront costs",
+        "(b) Limited accessibility",
+        "(c) Scalability and lower upfront costs",
+        "(d) Only accessible through PC‘s"
+      ],
+      "answer": "c"
+    },
+    "17": {
+      "question": "The cloud-based ERP solutions are preferred for accessing software remotely because Cloud ERP systems",
+      "options": [
+        "(a) Can only be accessed during business hours",
+        "(b) Provide limited access to employees outside the office",
+        "(c) Allow to access software from anywhere, at any time, on any device",
+        "(d) Require complex local installations"
+      ],
+      "answer": "c"
+    },
+    "18": {
+      "question": "ISO standard focuses on quality management systems?",
+      "options": [
+        "(A) ISO 14001",
+        "(B) ISO 9001",
+        "(C) ISO 45001",
+        "(D) ISO 50001"
+      ],
+      "answer": "B"
+    },
+    "19": {
+      "question": "The following a direct benefit of implementing ISO standards",
+      "options": [
+        "(a) Increased bureaucracy",
+        "(b) Improved risk management and reduced operational costs",
+        "(c) Limited product development",
+        "(d) Decreased employee involvement in decision-making"
+      ],
+      "answer": "b"
+    },
+    "20": {
+      "question": "ISO certification help to improve ____________ within an organization",
+      "options": [
+        "(A) Marketing and production strategies",
+        "(B) Organizational hierarchy",
+        "(C) Financial investments only",
+        "(D) Efficiency, quality, and customer satisfaction"
+      ],
+      "answer": "D"
+    },
+
+    "21": {
+      "question": "The key focus of ISO 14001, part of the ISO 14000 series is",
+      "options": [
+        "(a) Enhancing financial performance only",
+        "(b) Implementing energy-efficient practices",
+        "(c) Establishing environmental management systems",
+        "(d) Setting prices for environmentally friendly products"
+      ],
+      "answer": "c"
+    },
+    "22": {
+      "question": "ISO standard focuses on environment management systems?",
+      "options": [
+        "(A) ISO 14001",
+        "(B) ISO 9001",
+        "(C) ISO 45001",
+        "(D) ISO 50001"
+      ],
+      "answer": "A"
+    },
+    "23": {
+      "question": "______________ is the primary purpose of marketing techniques.",
+      "options": [
+        "(a) Increase production costs",
+        "(b) Satisfy customer needs and increase sales",
+        "(c) Limit the number of products in the market",
+        "(d) Reduce competition"
+      ],
+      "answer": "b"
+    },
+    "24": {
+      "question": "___________ is NOT one of the Seven P‘s of Marketing.",
+      "options": [
+        "(a) Product",
+        "(b) Price",
+        "(c) Positioning",
+        "(d) Promotion"
+      ],
+      "answer": "c"
+    },
+    "25": {
+      "question": "Place‘ refer to .................in the Seven P‘s of Marketing.",
+      "options": [
+        "(a) The geographical location of the company headquarters",
+        "(b) The distribution channels used to deliver the product to consumers",
+        "(c) The online presence of a business",
+        "(d) The price strategy adopted by a company"
+      ],
+      "answer": "b"
+    },
+
+    "26": {
+      "question": "In marketing management strategy, ROI means…………….",
+      "options": [
+        "(a) Return on investment",
+        "(b) Refer on Interest",
+        "(c) Rate of Interest",
+        "(d) Range of Internet"
+      ],
+      "answer": "a"
+    },
+    "27": {
+      "question": "Marketing management system used to drive …………..",
+      "options": [
+        "(a) Only long term goals",
+        "(b) Short-term results and long-term growth",
+        "(c) Narrow mind",
+        "(d) Only Short term result"
+      ],
+      "answer": "b"
+    },
+    "28": {
+      "question": "The 'Price' element in marketing refers to…………..",
+      "options": [
+        "(a) The cost of raw materials",
+        "(b) The amount a customer pays for a product or service",
+        "(c) The salary of employees in a company",
+        "(d) The advertising budget"
+      ],
+      "answer": "b"
+    },
+    "29": {
+      "question": "____________ describes the 'needs' in marketing.",
+      "options": [
+        "(a) A strong desire for a specific product",
+        "(b) Basic requirement for human survival",
+        "(c) A luxury that enhances lifestyle",
+        "(d) A product that satisfies a person's craving"
+      ],
+      "answer": "b"
+    },
+    "30": {
+      "question": "On the basis of marketing management, CRM is __________.",
+      "options": [
+        "(a) Customer Range Manufacturing",
+        "(b) Company Rate Material",
+        "(c) Customer Range Meaning",
+        "(d) Customer Relationship Management"
+      ],
+      "answer": "d"
+    },
+
+    "31": {
+      "question": "____________ refers to the willingness and ability of consumers to purchase a Specific product or service at a given price.",
+      "options": [
+        "(a) Customer Need",
+        "(b) Customer Want",
+        "(c) Customer Demand",
+        "(d) Customer Perfection"
+      ],
+      "answer": "c"
+    },
+    "32": {
+      "question": "Supply Chain Management (SCM) primarily involves",
+      "options": [
+        "(A) Managing customer complaints and product returns.",
+        "(B) Coordinating and monitoring the flow of goods, services, and information from raw materials to final product delivery.",
+        "(C) Designing marketing strategies to boost product sales.",
+        "(D) Handling financial transactions and payroll management."
+      ],
+      "answer": "B"
+    },
+    "33": {
+      "question": "Logistics management _____________ which leads to customer satisfaction and revenue growth.",
+      "options": [
+        "(a) increases costs and reduces customer satisfaction",
+        "(b) optimizes efficiency and enhances customer satisfaction, leading to revenue growth",
+        "(c) has no impact on revenue",
+        "(d) reduces inventory accuracy"
+      ],
+      "answer": "b"
+    },
+    "34": {
+      "question": "______________ is the primary goal of supply chain management (SCM)",
+      "options": [
+        "(a) To maximize production costs",
+        "(b) To reduce customer satisfaction",
+        "(c) To deliver the right product at the right time, location and cost",
+        "(d) To decrease supplier relationships"
+      ],
+      "answer": "c"
+    },
+    "35": {
+      "question": "______________ the main components involved in supply chain management.",
+      "options": [
+        "(a) Procurement, inventory management, distribution and delivery",
+        "(b) Marketing, branding, and customer loyalty.",
+        "(c) Finance, accounting and tax management.",
+        "(d) Advertising, human resource management"
+      ],
+      "answer": "a"
+    },
+
+    "36": {
+      "question": "_____________ is the role of transportation in Supply Chain Management (SCM)",
+      "options": [
+        "(a) Production optimization",
+        "(b) Demand forecasting",
+        "(c) Movement of goods from one location to another",
+        "(d) Procurement negotiation"
+      ],
+      "answer": "c"
+    },
+    "37": {
+      "question": "______________ is the primary objective of Supply Chain Management",
+      "options": [
+        "(a) Delivering the right product to the right place at the right time and cost",
+        "(b) Increasing warehousing costs",
+        "(c) Decreasing customer demand",
+        "(d) Reducing supplier involvement"
+      ],
+      "answer": "a"
+    },
+    "38": {
+      "question": "Sourcing relates to _____________ in supply Chain Management:",
+      "options": [
+        "(a) focuses on customer satisfaction; production focuses on storage",
+        "(b) deals with selecting suppliers that provide the best combination of cost, quality, and reliability.",
+        "(c) involve transportation",
+        "(d) handles order fulfillment"
+      ],
+      "answer": "b"
+    },
+    "39": {
+      "question": "Choose the key component of logistics",
+      "options": [
+        "(a) Supplier auditing",
+        "(b) Market research",
+        "(c) Delivery of goods to customers",
+        "(d) Production scheduling"
+      ],
+      "answer": "c"
+    },
+    "40": {
+      "question": "The primary focus of IT-enabled SCM is on ________---",
+      "options": [
+        "(a) real-time communication and visibility",
+        "(b) manual data entry",
+        "(c) Marketing of the product",
+        "(d) branding of the products"
+      ],
+      "answer": "a"
+    },
+
+    "41": {
+      "question": "_____________ is one of the benefits of using IT in supply chain management.",
+      "options": [
+        "(a) Increased lead times and inefficiencies",
+        "(b) Enhanced collaboration and data-driven decision-making",
+        "(c) Higher operational costs without insights",
+        "(d) Reduced transparency in supply chain operations"
+      ],
+      "answer": "b"
+    },
+    "42": {
+      "question": "_____________ is a key component of HRM related to employee assessment:",
+      "options": [
+        "(a) Performance management",
+        "(b) Recruitment & selection",
+        "(c) Compensation & benefits",
+        "(d) Work-life balance initiatives"
+      ],
+      "answer": "a"
+    },
+    "43": {
+      "question": "Ethical considerations in HRM focuses on",
+      "options": [
+        "(a) Offering competitive salaries",
+        "(b) Adherence to legal and ethical standards",
+        "(c) Limiting employee concerns",
+        "(d) Increasing work-life conflicts"
+      ],
+      "answer": "b"
+    },
+    "44": {
+      "question": "HRM principles improve employee morale:",
+      "options": [
+        "(a) Ignoring work-life balance",
+        "(b) Focusing only on compensation",
+        "(c) Promoting work-life balance initiatives",
+        "(d) Limiting employee development opportunities"
+      ],
+      "answer": "c"
+    },
+    "45": {
+      "question": "__________ leadership style that involves centralized decision-making:",
+      "options": [
+        "(a) Democratic Leadership",
+        "(b) Transformational Leadership",
+        "(c) Laissez-Faire Leadership",
+        "(d) Autocratic Leadership"
+      ],
+      "answer": "d"
+    }
+  }
+}
